@@ -14,11 +14,10 @@ I am a PhD student, serving my academic overlords on the weekdays. Outside of wo
 
 ![☕](https://mail.google.com/mail/e/2615) My chai is better than most drugs...well most, not all.
 
-![🗣](https://mail.google.com/mail/e/1f5e3)️What others are saying:
 
 
 
-# Other Satisfied Customers: #
+ # ![🗣](https://mail.google.com/mail/e/1f5e3) Other Satisfied Customers: #
 `He's pretty ok`~ <em>The New York Times</em>
 
   
