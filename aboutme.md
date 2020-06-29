@@ -1,8 +1,6 @@
----
-layout: page
-title: # A-bout M3 #
-subtitle: Why I am
----
+# A-bout M3 #
+
+
 
 I am a PhD student, serving my academic overlords on the weekdays. Outside of work:
 
