@@ -1,16 +1,31 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: # A-bout M3 #
+subtitle: Why I am
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a PhD student, serving my academic overlords on the weekdays. Outside of work:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+![🐎](https://mail.google.com/mail/e/1f40e) I am into running and working out. That's _only_ because I'm trying to make up for a crapy personality.
 
-What else do you need?
+![📗](https://mail.google.com/mail/e/1f4d7) Love reading, especially books on History, religion or human cognition.
 
-### my history
+![✏](https://mail.google.com/mail/e/270f)️ I am volunteer teacher for 5yr old kids at the local Sunday school. This is primarily because I love the feeling of walking into a room and knowing I'm the smartest one there.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![🍩](https://mail.google.com/mail/e/1f369) I love going to events for free food. You know... to support their cause or whatever.
+
+![☕](https://mail.google.com/mail/e/2615) My chai is better than most drugs...well most, not all.
+
+![🗣](https://mail.google.com/mail/e/1f5e3)️What others are saying:
+
+  
+
+"He's pretty ok"~The New York Times
+
+  
+
+"I'm surprised he's made it this far in life"~Former Roommate
+
+  
+
+"I have him on permanent voicemail. He really needs to stop calling me."~Mom
