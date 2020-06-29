@@ -16,14 +16,15 @@ I am a PhD student, serving my academic overlords on the weekdays. Outside of wo
 
 ![🗣](https://mail.google.com/mail/e/1f5e3)️What others are saying:
 
-  
 
-"He's pretty ok"~The New York Times
 
-  
-
-"I'm surprised he's made it this far in life"~Former Roommate
+# Other Satisfied Customers: #
+`He's pretty ok`~ <em>The New York Times</em>
 
   
 
-"I have him on permanent voicemail. He really needs to stop calling me."~Mom
+`I'm surprised he's made it this far in life` ~ <em>Former Roommate</em>
+
+  
+
+`I have him on permanent voicemail. He really needs to stop calling me.` ~ <em>Mom</em>
