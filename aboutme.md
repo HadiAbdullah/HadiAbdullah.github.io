@@ -1,4 +1,4 @@
-# A-bout M3 #
+# m3 #
 
 
 
@@ -19,7 +19,8 @@ I am a PhD student, serving my academic overlords on the weekdays. Outside of wo
 
  # Other Satisfied Customers: #
  
- 
+
+
 `He's pretty ok`~ <em>The New York Times</em>
 
   
